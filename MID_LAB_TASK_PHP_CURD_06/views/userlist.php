@@ -53,6 +53,18 @@
 				<a href="delete.php"> DELETE </a>
 			</td>
 		</tr>
+        
+        <tr>
+			<td>4</td>
+			<td>rafy</td>
+			<td>123</td>
+			<td>alrafy8102@gmail.com</td>
+			<td>
+				<a href="edit.php?id=3"> EDIT </a> |
+				<a href="delete.php"> DELETE </a>
+			</td>
+		</tr>
+        
 	</table>
 </body>
 </html>
